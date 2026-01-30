@@ -42,3 +42,24 @@ o	Propose KPIs and a monitoring framework to track improvements (e.g., sales per
 ## Dashboard
 
 <img width="1696" height="651" alt="Coffe-chain Dashboard" src="https://github.com/user-attachments/assets/e1c56a05-21d6-485f-a0d1-fe2432ccceeb" />
+
+## Key Insights
+
+●	Profitability is driven by a small number of markets and core product types
+
+●	Underperforming regions represent the largest opportunity for improvement
+
+●	Product mix optimization can significantly improve margins
+
+●	Seasonal trends should inform staffing, promotions, and inventory planning
+
+## Recommendations
+Based on the analysis, the following actions are recommended:
+1.	Focus operational improvements and marketing investment on underperforming markets, particularly the South region
+2.	Review pricing and cost structures for high-sales but low-margin products
+3.	Promote or bundle high-margin products in low-sales categories to improve mix
+4.	Implement seasonal promotions to counter late-year sales declines
+5.	Set clear performance benchmarks for markets and product lines
+
+## Conclusion
+This analysis demonstrates the value of leveraging sales data to drive strategic decision-making. By focusing on underperforming markets, optimizing product mix, and monitoring the right KPIs, the coffee chain can improve profitability, reduce risk, and support sustainable growth going forward.
