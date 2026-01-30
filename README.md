@@ -20,14 +20,25 @@ Dashboard interaction - <a href="https://github.com/Rexcaleb/Data-Analysis-Dashb
 
 ## Process
 o	Clean and standardize the dataset: ensure consistency in date/time fields, store identifiers, product categories, cost and revenue numbers, margin calculations.
+
 o	Derive useful variables (e.g., profit margin = (sales – COGS)/sales; average transaction value if transaction counts available; sales growth month-on-month).
+
 o	Provide key summary metrics: total sales, total cost, profit, number of stores, product categories; sales by region/store; product line performance; time period (daily, weekly, monthly) trends.
+
 o	Identify top-performing and bottom-performing stores, product lines and regions.
+
 o	Explore relationships: what store characteristics are linked to higher sales or profit margins.
+
 o	Investigate sub-drivers: product category vs sales and margin; time of day or day of week patterns; cost of goods sold vs margin differences.
+
 o	Segment stores and products by performance buckets (e.g., high-sales vs low-sales, high-margin vs low-margin) to identify characteristic differences.
+
 o	Benchmark across regions or product lines to see best practices and under-performers.
+
 o	Based on findings, recommend where to focus attention: e.g., which stores to up-resource, which product lines to promote or discontinue, pricing or cost control opportunities.
+
 o	Propose KPIs and a monitoring framework to track improvements (e.g., sales per store per day, margin per product line, growth vs benchmark).
 
 ## Dashboard
+
+<img width="1696" height="651" alt="Coffe-chain Dashboard" src="https://github.com/user-attachments/assets/e1c56a05-21d6-485f-a0d1-fe2432ccceeb" />
