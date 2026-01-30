@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-This is a comprehensive analysis of the Coffee Chain Sales dataset with the objective of identifying key drivers of sales and profitability across markets, products, and time periods. The analysis reveals that while the business is profitable overall, performance is uneven across regions and product lines. 
+# Coffee Chain Sales Data Analysis (Analytics report and dashboard using MS Excel)
+## Project Objectives
+To perform a comprehensive analysis of the Coffee Chain Sales Data in order to identify key drivers of store performance (sales, profit, margin), optimize product-mix and pricing strategy, highlight under- and over-performing stores and products, and deliver actionable recommendations for improving overall chain profitability and operational efficiency.
